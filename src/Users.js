@@ -26,7 +26,7 @@ export const Users = [
     {
       id: 4,
       name: {
-        firstname: "Jess",
+        firstname: "Jess Raphael",
         lastname: "Jumawan",
       },
       course: "BSIT",
