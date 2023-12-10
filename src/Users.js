@@ -50,7 +50,7 @@ export const Users = [
     {
       id: 7,
       name: {
-        firstname: "Aldwin",
+        firstname: "Mark Aldwin",
         lastname: "Handumon",
       },
       course: "BSIT",
